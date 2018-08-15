@@ -29,6 +29,15 @@
         "bug",
         "code"
       ]
+    },
+    {
+      "login": "agarun",
+      "name": "Aaron Agarunov",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19801205?v=4",
+      "profile": "https://agarun.com",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
